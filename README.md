@@ -1,0 +1,2 @@
+# portainer.uninstall
+portainer uninstall
